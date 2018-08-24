@@ -1,0 +1,9 @@
+Segundo Dia
+En python if (0) es falso
+Cuando un argumento es diccionario se pasa por parametro a la funcion **kwargs
+Para llamar el Key de un diccionario solo se pone el objeto de ese diccionario
+Para obtener el work del diccionario se llama el diccionario[k]
+
+
+Tarea 
+Crear una clase que me tranforme las clases de numerico a texto
